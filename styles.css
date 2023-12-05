@@ -1,0 +1,108 @@
+input:focus,
+button:focus {
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #5f6368;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c3c3c3;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c3c3c3;
+}
+
+.result-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  padding: 0 15px;
+  margin-top: 30px;
+
+
+}
+.form-control:focus {
+  outline: none; /* Remove the default outline style */
+  box-shadow: none; /* Remove the default box shadow style */
+}
+.card {
+  width: fit-content;
+  margin: 0 auto;
+  border: 2px solid #116456;
+}
+
+.card-body {
+  border: 1px solid transparent;
+}
+
+body {
+  font-size: 16px;
+  font-weight: 400;
+
+}
+
+h1 {
+  color: #6c757d;
+  font-size: 29px;
+  line-height: 32px;
+  letter-spacing: -1px;
+  font-weight: 400;
+}
+
+h2 {
+  color: #116456;
+  font-size: 15px;
+  font-weight: 300;
+}
+h3 {
+  color: #6c757d;
+  font-size: 29px;
+  line-height: 32px;
+  letter-spacing: -1px;
+  font-weight: 400;
+}
+
+
+.navbar {
+  padding: 10px 10px;
+  background-color: #080d0c;
+}
+
+.navbar-brand {
+  margin-right: 50px;
+}
+
+.navbar-nav {
+  margin-right: 50px;
+}
+
+.btn-primary {
+  background-color: #116456;
+  border-color: #116456;
+}
+
+.btn-primary:hover {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+input[type="text"] {
+  border: 2px solid #116456;
+  padding: 15px;
+}
+
+
+@media (max-width: 576px) {
+  .card {
+    width: 100%;
+  }
+}
+
