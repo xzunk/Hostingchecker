@@ -117,6 +117,4 @@ Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTI
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize the README further based on the specific features and details of your project. Good luck with your Open Source Hosting and IP Checker!
