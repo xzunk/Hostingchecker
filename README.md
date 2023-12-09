@@ -1,6 +1,3 @@
-Certainly! Below is a template for a beautiful GitHub README for your Open Source Hosting and IP Checker project in PHP, along with a self-hosting guide:
-
----
 
 # HostingChecker
 
