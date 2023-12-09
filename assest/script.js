@@ -10,8 +10,8 @@ function checkIP() {
       resultElement.innerHTML = `
         <br>
         Status: ${response.status}
-        <br><b>IP Query:</b> ${response.query}
-        <br><b>ISP:</b> ${response.isp}
+        <br><b>IP:</b> ${response.query}
+        <br><b>Data center:</b> ${response.isp}
         <br><b>Country:</b> ${response.country}
         <br><b>Country Code:</b> ${response.countryCode}
         <br><b>Region Name:</b> ${response.regionName}
