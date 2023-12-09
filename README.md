@@ -14,7 +14,7 @@ Open Source Hosting and IP Checker written in PHP.
 
 - Check hosting provider details.
 - Retrieve IP information.
-- Easy to use API.
+
 
 ## Installation
 
@@ -65,7 +65,7 @@ If you wish to host HostingChecker on your own server, follow the steps below:
 1. **Requirements:**
     - PHP >= 7.3
     - Composer
-    - Database (e.g., MySQL, PostgreSQL)
+
 
 2. **Clone the repository:**
 
