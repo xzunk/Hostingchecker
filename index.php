@@ -42,7 +42,7 @@
 <script src="assest/script.js"></script>
 </body>
 <footer class=" text-center" >
-    <div class="text-center p-3" ">© xzank | Github </div>
+    <div class="text-center p-3" ">© xzunk | Github </div>
 </footer>
 </html>
 
